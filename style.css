@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    height: 100vh;
+}
+
+.contador{
+    position: fixed;
+    background-color: #ffffffaa;
+    border-radius: 15px;
+    padding: 10px;
+    top:0;
+    text-align: center;
+    pointer-events: none;
+    user-select: none;
+}
+
+.jugador1{
+    left:0;
+}
+
+.jugador2{
+    right:0;
+}
